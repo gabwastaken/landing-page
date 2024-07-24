@@ -12,3 +12,74 @@ body {
     border: 2px solid red;
     height: 400px;
 }
+
+.div-two {
+    border: 2px solid red;
+    height: 400px;
+}
+
+.div-three {
+    background-color: #E5E7EB;
+    border: 2px solid red;
+    height: 400px;
+}
+
+/* Call to action section */
+.action-section {
+    border: 2px solid red;
+    height: 350px;
+}
+
+/* Call to action div */
+.action-div {
+    background-color: #2882F6;
+    border: 2px solid red;
+    height: 200px;
+    width: 80%;
+    margin: 65px auto;
+    border-radius: 20px;
+}
+
+/* Call to action header */
+.action-h2 {
+    font-family: 'Roboto', 'Courier New', Courier, monospace;
+    color: white;
+    border: 2px solid red;
+}
+
+/* Call to action paragraph */
+.action-para {
+    font-family: 'Roboto', 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+    border: 2px solid red;
+    margin-top: 0;
+}
+
+
+/* Call to action button */
+.action-button {
+    background-color: #2882F6;
+    font-family: 'Roboto', 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 150px;
+    height: 45px;
+    font-size: 18px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #1F2937;
+    border: 2px solid red;
+    height: 80px;
+}
+
+.footer-text {
+    color: #F9FAF8;
+    font-family: 'Roboto', 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 30px;
+}
