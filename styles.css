@@ -2,16 +2,13 @@ body {
     margin: 0;
 }
 
-.background-top {
+.logo-div{
     background-color: #1F2937;
+    border: 2px solid red;
 }
 
-.div-section-one {
+.div-one{
     background-color: #1F2937;
     border: 2px solid red;
     height: 400px;
-}
-
-.div-h1 {
-    border: 2px solid red;
 }
