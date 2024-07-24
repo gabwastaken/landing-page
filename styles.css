@@ -1,27 +1,51 @@
+/* Body */
 body {
     margin: 0;
 }
 
-.logo-div{
+/* Header section */
+.header-div{
     background-color: #1F2937;
     border: 2px solid red;
 }
 
-.div-one{
+/* Hero section */
+.hero-section{
     background-color: #1F2937;
     border: 2px solid red;
     height: 400px;
 }
 
-.div-two {
+/* Information section */
+.info-section {
     border: 2px solid red;
     height: 400px;
 }
 
-.div-three {
+/* Quote section */
+.quote-section {
     background-color: #E5E7EB;
     border: 2px solid red;
     height: 400px;
+}
+
+/* Quote section paragraph */
+.quote-para {
+    color: #1F2937;
+    font-size: 36px;
+    font-family: 'Roboto', 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 70px;
+}
+
+/* Quote section author paragraph */
+.quote-author-para {
+    color: black;
+    font-size: 24px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Roboto', 'Courier New', Courier, monospace;
+    margin-left: 75%;
 }
 
 /* Call to action section */
@@ -30,7 +54,7 @@ body {
     height: 350px;
 }
 
-/* Call to action div */
+/* Call to action section div */
 .action-div {
     background-color: #2882F6;
     border: 2px solid red;
@@ -40,14 +64,14 @@ body {
     border-radius: 20px;
 }
 
-/* Call to action header */
+/* Call to action section div header */
 .action-h2 {
     font-family: 'Roboto', 'Courier New', Courier, monospace;
     color: white;
     border: 2px solid red;
 }
 
-/* Call to action paragraph */
+/* Call to action section div paragraph */
 .action-para {
     font-family: 'Roboto', 'Courier New', Courier, monospace;
     font-size: 18px;
@@ -57,7 +81,7 @@ body {
 }
 
 
-/* Call to action button */
+/* Call to action section div button */
 .action-button {
     background-color: #2882F6;
     font-family: 'Roboto', 'Courier New', Courier, monospace;
@@ -70,13 +94,14 @@ body {
     border-radius: 10px;
 }
 
-/* Footer */
+/* Footer div */
 footer {
     background-color: #1F2937;
     border: 2px solid red;
     height: 80px;
 }
 
+/* Footer div text */
 .footer-text {
     color: #F9FAF8;
     font-family: 'Roboto', 'Courier New', Courier, monospace;
