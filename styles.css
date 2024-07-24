@@ -1,28 +1,17 @@
-* {
+body {
+    margin: 0;
+}
+
+.background-top {
     background-color: #1F2937;
 }
 
-.logo-div {
-    display: inline;
-    color: #F9FAF8;
-    font-family: "Roboto", sans-serif;
-    font-size: 24px;
-    margin-left: 100px;
+.div-section-one {
+    background-color: #1F2937;
+    border: 2px solid red;
+    height: 400px;
 }
 
-.link-div {
-    display: inline;
-    color: #F9FAF8;
-    font-family: "Roboto", sans-serif;
-    font-size: 24px;
-    margin-left: 100px;
+.div-h1 {
+    border: 2px solid red;
 }
-
-/* Remove
-.link-div {
-    display: inline;
-    color: #F9FAF8;
-    font-family: "Roboto", sans-serif;
-    font-size: 24px;
-    margin-left: 100px;
-} */
